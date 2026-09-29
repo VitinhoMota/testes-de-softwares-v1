@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let nome = "João Vitor";
 let idade = 25;
 let devAtivo = true;
@@ -21,4 +19,5 @@ for (let i = 0; i < 10; i++) {
 }
 ;
 console.log("Fim da contagem");
+export {};
 //# sourceMappingURL=atividade01.js.map
